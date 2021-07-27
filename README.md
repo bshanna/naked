@@ -22,4 +22,4 @@ yarn serve
 - [Headliess](https://headlessui.dev/vue/)
 - [Vue3](https://v3.vuejs.org/)
 
-Sorry no tests, typescript right now.
+Sorry no tests, typescript right now. Also used iPhoneX size and desktop, didn't look at tablet or xlarge screens but with more time...
