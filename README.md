@@ -1,4 +1,4 @@
-# `Vite 2.x + Vue 3.x + Tailwind 2.x starter ⚡`
+# `Naked Test⚡`
 
 npm:
 ```sh
@@ -20,6 +20,6 @@ yarn serve
 - [Tailwindcss](https://tailwindcss.com/)
 - [Hero Icons](https://unpkg.com/browse/@heroicons/vue@1.0.2/solid/)
 - [Headliess](https://headlessui.dev/vue/)
-- [Vue3](https://v3.vuejs.org/
+- [Vue3](https://v3.vuejs.org/)
 
 Sorry no tests, typescript right now.
