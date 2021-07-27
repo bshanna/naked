@@ -1,0 +1,178 @@
+{
+    "filters": [
+        {
+            "filterKey": "priceRange",
+            "displayName": "Price Range",
+            "options": [
+                {
+                    "name":"all prices",
+                    "count": 12
+                },
+                {
+                    "name": "under $10",
+                    "count": 6
+                },
+                {
+                    "name": "$10-$20",
+                    "count": 6
+                }
+            ]
+        },
+        {
+            "filterKey": "profile",
+            "displayName": "Taste Profile",
+            "options": [
+                {
+                    "name": "all profiles",
+                    "count": 12
+                },
+                {
+                    "name": "Crisp White",
+                    "count": 5
+                },
+                {
+                    "name": "Rose",
+                    "count": 2
+                },
+                {
+                    "name": "Smooth Red",
+                    "count": 2
+                },
+                {
+                    "name": "Big Red",
+                    "count": 1
+                },
+                {
+                    "name": "Fruity White",
+                    "count": 1
+                },
+                {
+                    "name": "Rich White",
+                    "count": 1
+                }
+            ]
+        }
+    ],
+    "wines": [
+        {
+            "id": 1,
+            "name": "Arabella Cabernet Sauvignon 2020",
+            "url": "/wines/arabella-cabernet-sauvignon-2020.htm",
+            "displayPriceUSD": "16.99",
+            "angelPriceUSD": "10.99",
+            "priceRange": "$10-$20",
+            "imageURL": "https://d2uonb1a56l9mc.cloudfront.net/images/merchandising/content/wines/arabella-cabernet-sauvignon-2020/background.jpg",
+            "profile": "Smooth Red"
+        },
+        {
+            "id": 2,
+            "name": "Quevedo Family Alvarinho 2020",
+            "url": "/wines/arabella-cabernet-sauvignon-2020.htm",
+            "displayPriceUSD": "24.99",
+            "angelPriceUSD": "11.99",
+            "priceRange": "$10-$20",
+            "imageURL": "https://d2uonb1a56l9mc.cloudfront.net/images/merchandising/content/wines/quevedo-family-alvarinho-2020/background.jpg",
+            "profile": "Crisp White"
+        },
+        {
+            "id": 3,
+            "name": "Mauricio Lorca Angels Selection Malbec 2019",
+            "url": "/wines/mauricio-lorca-angels-selection-malbec-2019.htm",
+            "displayPriceUSD": "15.99",
+            "angelPriceUSD": "10.99",
+            "priceRange": "$10-$20",
+            "imageURL": "https://d2uonb1a56l9mc.cloudfront.net/images/merchandising/content/wines/mauricio-lorca-angels-selection-malbec-2019/background.jpg",
+            "profile": "Smooth Red"
+        },
+        {
+            "id": 4,
+            "name": "David Akiyoshi California Cabernet Sauvignon 2018",
+            "url": "/wines/david-akiyoshi-california-cabernet-sauvignon-2018.htm",
+            "displayPriceUSD": "15.99",
+            "angelPriceUSD": "10.99",
+            "priceRange": "$10-$20",
+            "imageURL": "https://d2uonb1a56l9mc.cloudfront.net/images/merchandising/content/wines/david-akiyoshi-california-cabernet-sauvignon-2018/background.jpg",
+            "profile": "Big Red"
+        },
+        {
+            "id": 5,
+            "name": "Patrice Grasset Loire Valley Sauvignon Blanc 2020",
+            "url": "/wines/patrice-grasset-loire-valley-sauvignon-blanc-2020.htm",
+            "displayPriceUSD": "27.99",
+            "angelPriceUSD": "11.99",
+            "priceRange": "$10-$20",
+            "imageURL": "https://d2uonb1a56l9mc.cloudfront.net/images/merchandising/content/wines/patrice-grasset-loire-valley-sauvignon-blanc-2020/background.jpg",
+            "profile": "Crisp White"
+        },
+        {
+            "id": 6,
+            "name": "Benjamin Darnault Pique Nique Rose 2020",
+            "url": "/wines/benjamin-darnault-pique-nique-rose-2020.htm",
+            "displayPriceUSD": "22.99",
+            "angelPriceUSD": "9.99",
+            "priceRange": "under $10",
+            "imageURL": "https://d2uonb1a56l9mc.cloudfront.net/images/merchandising/content/wines/benjamin-darnault-pique-nique-rose-2020/background.jpg",
+            "profile": "Rose"
+        },
+        {
+            "id": 7,
+            "name": "F. Stephen Millier Angels Reserve Lodi Pinot Grigio 2020",
+            "url": "/wines/f-stephen-millier-angels-reserve-lodi-pinot-grigio-2020.htm",
+            "displayPriceUSD": "13.99",
+            "angelPriceUSD": "9.99",
+            "priceRange": "under $10",
+            "imageURL": "https://d2uonb1a56l9mc.cloudfront.net/images/merchandising/content/wines/f-stephen-millier-angels-reserve-lodi-pinot-grigio-2020/background.jpg",
+            "profile": "Crisp White"
+        },
+        {
+            "id": 8,
+            "name": "Karen Birmingham California Pinot Grigio 2020",
+            "url": "/wines/karen-birmingham-california-pinot-grigio-2020.htm",
+            "displayPriceUSD": "15.99",
+            "angelPriceUSD": "9.99",
+            "priceRange": "under $10",
+            "imageURL": "https://d2uonb1a56l9mc.cloudfront.net/images/merchandising/content/wines/karen-birmingham-california-pinot-grigio-2020/background.jpg",
+            "profile": "Crisp White"
+        },
+        {
+            "id": 9,
+            "name": "David Akiyoshi Lodi Chardonnay 2019",
+            "url": "/wines/david-akiyoshi-lodi-chardonnay-2019.htm",
+            "displayPriceUSD": "17.99",
+            "angelPriceUSD": "9.99",
+            "priceRange": "under $10",
+            "imageURL": "https://d2uonb1a56l9mc.cloudfront.net/images/merchandising/content/wines/david-akiyoshi-lodi-chardonnay-2019/background.jpg",
+            "profile": "Rich White"
+        },
+        {
+            "id": 10,
+            "name": "Miriam California Chenin Blanc 2020",
+            "url": "/wines/miriam-alexandra-california-chenin-blanc-2020.htm",
+            "displayPriceUSD": "24.99",
+            "angelPriceUSD": "9.99",
+            "priceRange": "under $10",
+            "imageURL": "https://d2uonb1a56l9mc.cloudfront.net/images/merchandising/content/wines/miriam-alexandra-california-chenin-blanc-2020/background.jpg",
+            "profile": "Fruity White"
+        },
+        {
+            "id": 11,
+            "name": "Arabella Sauvignon Blanc 2020",
+            "url": "/wines/arabella-sauvignon-blanc-2020.htm",
+            "displayPriceUSD": "16.99",
+            "angelPriceUSD": "8.99",
+            "priceRange": "under $10",
+            "imageURL": "https://d2uonb1a56l9mc.cloudfront.net/images/merchandising/content/wines/arabella-sauvignon-blanc-2020/background.jpg",
+            "profile": "Crisp White"
+        },
+        {
+            "id": 12,
+            "name": "Patrice Grasset Loire Valley Rose of Pinot Noir 2020",
+            "url": "/wines/patrice-grasset-loire-valley-rose-of-pinot-noir-2020.htm",
+            "displayPriceUSD": "24.99",
+            "angelPriceUSD": "10.99",
+            "priceRange": "$10-$20",
+            "imageURL": "https://d2uonb1a56l9mc.cloudfront.net/images/merchandising/content/wines/patrice-grasset-loire-valley-rose-of-pinot-noir-2020/background.jpg",
+            "profile": "Rose"
+        }
+    ]
+}
